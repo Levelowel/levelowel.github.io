@@ -23,16 +23,16 @@
 
 ## 2. Downloading & Installing Complementary Shaders
 ### 1. Download Complementary Shaders
-- Goto [this side](https://www.curseforge.com/minecraft/customization/complementary-shaders/files) and click on the button that says "Download".
+- Go to [this page] (https://www.curseforge.com/minecraft/customization/complementary-shaders/files) and click the "Download" button.
 
-### 2. Unzip Complementary Shaders
-- Right click on the "Complementary_v3.XX_\[UNZIP_ME]\" file you downloaded from there, press "Extract All..." and then on "Extract".
-- You are now going to have a folder containing two zipped Folders and a Text Document. Leave the window open for now and don't unzip them unless you know what you're doing!
+### 2. Unpack Complementary Shaders
+- Right-click the "Complementary_v3.XX_\[UNZIP_ME]\" file that you downloaded from there, click "Extract All..." and then click "Extract".
+- You now have a folder with two zipped folders and a text document. For now, leave the window open and don't unzip it unless you really know what you're doing!
 
 ### 3. Install Complementary Shaders
-- Start Minecraft with OptiFine, navigate to "Options..." -> "Resource Packs..." and press on "Open Pack Folder". It will open up a new window where you need to move the "ComplementaryResources 3.XX". Once you are done just close that window
-- Alternatively you can drag and drop the "ComplementaryResources 3.XX" into the "Select Resource Packs" screen and confirm it with "Yes".
-- Select "ComplementaryResources 3.XX.zip" and press "Done".
-- Navigate to "Options..." -> "Video Settings..." -> "Shaders..." and press on "Shaders Folder". It will open a new window where you need to move the "ComplementaryShaders 3.XX.zip".
+- Start Minecraft with OptiFine, navigate to "Options..." -> "Resource Packs..." and click on "Open Pack Folder". A new window opens into which you have to move the "ComplementaryResources 3.XX". You can close this window when you're done.
+- Alternatively, you can drag and drop the "ComplementaryResources 3.XX" into the "Select Resource Packs" screen and confirm with "Yes".
+- Select "ComplementaryResources 3.XX.zip" by clicking the arrow on the icon when you hover over the file and click "Done".
+- Navigate to "Options..." -> "Video Settings..." -> "Shaders..." and click on "Shader Folder". A new window opens into which you have to move the "ComplementaryShaders 3.XX.zip".
 - Select "ComplementaryShaders_3.XX.zip" and press "Done".
-- If you want to change any of the Shaders settings go to the "Shaders..." again and press on "Shader Options..." in the right bottom corner.
+- If you want to change any of the shader settings, go to "Shaders..." again and click on "Shader Options..." in the lower right corner.
