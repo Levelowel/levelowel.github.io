@@ -23,7 +23,7 @@
 
 ## 2. Downloading & Installing Complementary Shaders
 ### 1. Download Complementary Shaders
-- Go to [this page] (https://www.curseforge.com/minecraft/customization/complementary-shaders/files) and click the "Download" button.
+- Go to [this page](https://www.curseforge.com/minecraft/customization/complementary-shaders/files) and click the "Download" button.
 
 ### 2. Unpack Complementary Shaders
 - Right-click the "Complementary_v3.XX_\[UNZIP_ME]\" file that you downloaded from there, click "Extract All..." and then click "Extract".
