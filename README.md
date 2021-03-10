@@ -1,3 +1,4 @@
+# Downloading & Installing OptiFine
 ### 1. Run Minecraft on the version you'd like to use at LEAST once.
 - This is to ensure the launcher downloads all the necessary files for OptiFine to be installed.
 
@@ -15,4 +16,7 @@
 - Your browser will likely tell you something along the lines of "This file could harm your computer, do you want to proceed?" This is normal, and most browsers will tell you this simply because OptiFine comes as a .jar file, which is a Java executable.
 - If the file sho Vws as a ZIP archive, or you have any other issue trying to open the OptiFine installer, try using Jarfix: (https://johann.loefflmann.net/en/software/jarfix/index.html)
 
-### 5. Ensure the install directory points to your .minecraft folder before clicking "Install"
+### 5. Ensure the install directory points to your `.minecraft` folder before clicking "Install"
+
+### 6. You should now see a new "OptiFine" profile in the official Minecraft launcher.
+- If no profile is created in the launcher automatically, you may need to [create one yourself.] (https://minecraft.gamepedia.com/Java_Edition_launcher#Installations)
