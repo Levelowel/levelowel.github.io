@@ -38,4 +38,4 @@
 - Select "ComplementaryShaders_3.XX.zip" and press "Done".
 - If you want to change any of the shader options, go to "Shaders..." again and click on "Shader Options..." in the lower right corner.
 
-## Now you are ready to enjoy your enhanced minecraft experience!
+## Now you can enjoy your enhanced Minecraft experience!
