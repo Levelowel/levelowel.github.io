@@ -40,5 +40,5 @@
 - Select "ComplementaryShaders_3.XX.zip" and press "Done".
 - If you want to change any of the shader options, go to "Shaders..." again and click on "Shader Options..." in the lower right corner.
 
-#### For further Help/Updates/Questions/Suggestions:
+### For further Help/Updates/Questions/Suggestions:
 <a class="discord" href="https://discord.gg/A6faFYt" target="_blank" rel="noopener noreferrer" style="text-decoration:none,margin:auto">Discord</a>
