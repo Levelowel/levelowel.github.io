@@ -6,7 +6,6 @@
 - This is to ensure that the launcher downloads all of the files required to install OptiFine.
 
 #### 2. Make sure the Minecraft launcher is closed before proceeding.
-- That will save you a lot of trouble!
 
 #### 3. Download and install Java if it is not already installed on your system.
 - Minecraft's bundled Java does NOT count.
