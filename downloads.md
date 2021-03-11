@@ -25,20 +25,20 @@
 - Re-fixed the Tweakeroo overlay fix to fix the problem where the fix didn't work in newer versions
 - Normal mapping is now an option that is disabled by default in all profiles except High
 - Tons of tiny tweaks, fixes and additions
-ComplementaryResources:
+#### ComplementaryResources:
 - Added auto-generated normals on high profile or when normal-mapping is enabled
 - Added emission to charged creepers and shroomlight-ish parts of nether fungi
 - Tweaked some metals, diamond/emerald, prismarine, and obsidian (includes variants of all)
-Compatibility Mode:
+#### Compatibility Mode:
 - Fixed Joy of Painting mod's paintings
 - Fixed tons of different issues in The Twilight Forest
 - Fixes to Atum and The Betweenlands dimensions
 - Fixed water reflections being wrong with the BetterEnd mod
 
 
-Fix 1 (Definitive Edition):
+##### Fix 1 (Definitive Edition):
 - Fixed lines appearing on chunk edges on some PCs
-Fix 2 (Very Definitive Edition):
+##### Fix 2 (Very Definitive Edition):
 - Fixed lines appearing in some dimensions
-Fix 3 (Ultimate Edition):
+##### Fix 3 (Ultimate Edition):
 - Fixed lines appearing underwater
