@@ -13,7 +13,7 @@
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       {% endif %}
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <div id="vidwrap"><iframe id="player" width="560" height="315" src="http://www.youtube.com/embed/9TgdxpXVoBo?autoplay=1&controls=0&fs=0&iv_load_policy=3&rel=0&showinfo=0&disablekb=1" frameborder="0"></iframe></div> <script> var tag = document.createElement('script'); tag.src = "//www.youtube.com/iframe_api"; var firstScriptTag = document.getElementsByTagName('script')[0]; firstScriptTag.parentNode.insertBefore(tag, firstScriptTag); var player; function onYouTubeIframeAPIReady() { player = new YT.Player('player', { events: { 'onStateChange': onPlayerStateChange } }); } function onPlayerStateChange(event) { if(event.data === YT.PlayerState.ENDED) { document.getElementById('vidwrap').innerHTML = '<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img width="560" height="315" src="http://img.youtube.com/vi/Z3ZAGBL6UBA/default.jpg"/></a>'; } } </script>
     
       {{ content }}
 
