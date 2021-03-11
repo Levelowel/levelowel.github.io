@@ -10,5 +10,5 @@
 ### Question 4: Water and/or stained glass looks wrong, what should I do?
   Answer: That's a bug caused by old graphics drivers. All you need to do to fix the issue is updating your graphics drivers.
   
-#### For further Help/Updates/Questions/Suggestions:
+### For further Help/Updates/Questions/Suggestions:
 <a class="discord" href="https://discord.gg/A6faFYt" target="_blank" rel="noopener noreferrer" style="text-decoration:none,margin:auto">Discord</a>
