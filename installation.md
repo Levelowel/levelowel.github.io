@@ -1,4 +1,5 @@
-# Note: This only applies if you are NOT using any big mods AND you are playing in Minecraft 1.13.2 or higher!
+# Note 1: [Here](https://www.youtube.com/watch?v=UQs6wO9nXkw) is a video tutorial by [DanielPlays](https://www.youtube.com/channel/UChmkRFkzzzrmN4nAq6_7WeQ) for **vanilla** Minecraft 1.16.3. but it also works for newer versions.
+# Note 2: The following Instructions only apply if you are NOT using any big mods AND you are playing in Minecraft 1.13.2 or higher! Otherwise follow the installation [here](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 ## 1. Download and install OptiFine
 ### 1. Run Minecraft at least once on the version you want to use.
 - This is to ensure that the launcher downloads all of the files required to install OptiFine.
@@ -38,5 +39,5 @@
 - Select "ComplementaryShaders_3.XX.zip" and press "Done".
 - If you want to change any of the shader options, go to "Shaders..." again and click on "Shader Options..." in the lower right corner.
 
-## Now you can enjoy your enhanced Minecraft experience!
-
+## For further Help/Updates/Questions/Suggestions:
+<a class="discord" href="https://discord.gg/A6faFYt" target="_blank" rel="noopener noreferrer" style="text-decoration:none,margin:auto">Discord</a>
