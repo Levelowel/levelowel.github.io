@@ -6783,7 +6783,7 @@ pre {
   color: #fff;
   text-align: center;
   background-color: #fff;
-  background-image: url('https://user-images.githubusercontent.com/53264315/110865327-be6d4d80-82c3-11eb-9cbe-29d4b6f53dd3.png');
+  background-image: linear-gradient(120deg, #DC143C, #4d4d4d);
       
   padding: 5rem 6rem
 }
