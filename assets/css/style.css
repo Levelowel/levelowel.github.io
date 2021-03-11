@@ -6803,13 +6803,6 @@ margin-bottom: 2rem;
      color: #fff
 }
 
-.container {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%;
-}
-
 .responsive-iframe {
   position: absolute;
   top: 0;
