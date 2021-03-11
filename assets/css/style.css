@@ -6793,3 +6793,10 @@ pre {
   margin-bottom: 0.1rem;
    font-size: 3.25rem
 }
+
+.project-tagline {
+margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7;
+ font-size: 1.25rem
+}
