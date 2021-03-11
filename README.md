@@ -1,4 +1,4 @@
-# Note: This only applies if you are NOT using big mods AND you are playing in Minecraft 1.13.2 or higher!
+# Note: This only applies if you are NOT using any big mods AND you are playing in Minecraft 1.13.2 or higher!
 ## 1. Download and install OptiFine
 ### 1. Run Minecraft at least once on the version you want to use.
 - This is to ensure that the launcher downloads all of the files required to install OptiFine.
