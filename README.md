@@ -12,7 +12,7 @@
 
 ### 4. Download OptiFine and open it with Java.
 - Download OptiFine [here.](https://optifine.net/downloads)
-- Please note that you will be temporarily forwarded to an Adfly page unless you use the "Mirror" link. **On this page, just click the "Skip Ad" button in the top right corner. **
+- Please note that you will be temporarily forwarded to an Adfly page unless you use the "Mirror" link. **On this page, just click the "Skip Ad" button in the top right corner.**
 - If the website takes you to a blank page, disable your ad blocker. In some rare cases, you may need to disable your antivirus as well.
 - Your browser will likely tell you, "This file could damage your computer. Do you want to continue?" This is normal and most browsers will simply tell you that because OptiFine comes as a JAR file, which is a Java executable file.
 - If the file is opened as a ZIP archive or you have another problem starting the OptiFine installer, use [Jarfix.](Https://johann.loefflmann.net/de/software/jarfix/index.html) 
