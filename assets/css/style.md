@@ -6783,7 +6783,8 @@ pre {
   color: #fff;
   text-align: center;
   background-color: #fff;
-  background-image: linear-gradient(120deg, #DC143C, #4d4d4d);
+  background-image:
+      
   padding: 5rem 6rem
 }
 
