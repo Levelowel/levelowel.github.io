@@ -6,8 +6,7 @@ html {
 }
 
 body {
-    margin: 0;
-    background-color: #0d1117;
+    margin: 0
 }
 
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section {
@@ -205,7 +204,7 @@ body {
     font-size: 14px;
     line-height: 1.5;
     color: #24292e;
-    background-color: #fff
+    background-color: #0d1117
 }
 
 a {
