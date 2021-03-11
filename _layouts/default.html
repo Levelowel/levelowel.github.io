@@ -9,12 +9,12 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   </head>
-  <body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+  <body>   
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
       {% endif %}
-
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
