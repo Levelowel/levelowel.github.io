@@ -106,6 +106,37 @@ figure {
     margin: 1em 40px
 }
 
+.discord {
+    with: auto ;
+    margin-top: 40px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    border-radius: 28px;
+    font-size: 20px;
+    padding: 16px 32px;
+    background-color: #7289da;
+    color: #fff;
+    line-height: 24px;
+    cursor: pointer;
+    font-weight: 500;
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    transition-property: background-color,color,box-shadow,-webkit-box-shadow;
+    transition-duration: .2s;
+    transition-timing-function: ease-in-out;
+    text-decoration: none;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-style: inherit;
+    font-family: inherit;
+    vertical-align: baseline;
+    -webkit-box-direction: normal;
+    text-rendering: optimizeLegibility;
+}    
+
 hr {
     box-sizing: content-box;
     height: 0;
