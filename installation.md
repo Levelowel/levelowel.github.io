@@ -1,4 +1,4 @@
-## Note 1: [Here](https://www.youtube.com/watch?v=UQs6wO9nXkw) is a video tutorial by [DanielPlays](https://www.youtube.com/channel/UChmkRFkzzzrmN4nAq6_7WeQ) for vanilla Minecraft 1.16.3. but it also works for newer versions.
+## Note 1: [Here](https://youtu.be/LIjLOtsZbDI) is a video tutorial by [DanielPlays](https://www.youtube.com/channel/UChmkRFkzzzrmN4nAq6_7WeQ) for Vanilla Minecraft 1.16.5
 ## Note 2: The following Instructions only apply if you are NOT using any big mods AND you are playing in Minecraft 1.13.2 or higher! Otherwise follow the instructions [here](https://www.curseforge.com/minecraft/customization/complementary-shaders).
 
 ### 1. Download and install OptiFine
