@@ -6311,7 +6311,6 @@ pre {
 
 .markdown-body img {
     max-width: 100%;
-    box-sizing: content-box;
     background-color: #fff
 }
 
@@ -6344,11 +6343,6 @@ pre {
     border: 1px solid #dfe2e5
 }
 
-.markdown-body span.frame span img {
-    display: block;
-    float: left
-}
-
 .markdown-body span.frame span span {
     display: block;
     padding: 5px 0 0;
@@ -6369,10 +6363,6 @@ pre {
     text-align: center
 }
 
-.markdown-body span.align-center span img {
-    margin: 0 auto;
-    text-align: center
-}
 
 .markdown-body span.align-right {
     display: block;
@@ -6384,11 +6374,6 @@ pre {
     display: block;
     margin: 13px 0 0;
     overflow: hidden;
-    text-align: right
-}
-
-.markdown-body span.align-right span img {
-    margin: 0;
     text-align: right
 }
 
