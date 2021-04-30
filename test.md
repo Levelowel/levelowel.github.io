@@ -115,10 +115,10 @@ function initComparisons() {
 <body>
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="2021-05-01_00.26.13.png" width="1920" height="551.25px">
+    <img src="2021-05-01_00.26.13.png" width="980" height="551.25px">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="2021-05-01_00.26.33.png" width="1920" height="551.25px">
+    <img src="2021-05-01_00.26.33.png" width="980" height="551.25px">
   </div>
 </div>
 <script>
