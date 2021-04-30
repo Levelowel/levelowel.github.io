@@ -1,38 +1,6 @@
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-* {box-sizing: border-box;}
-
-.img-comp-container {
-  position: relative;
-  height: 551.25px; /*should be the same height as the images*/
-}
-
-.img-comp-img {
-  position: absolute;
-  width: auto;
-  height: auto;
-  overflow:hidden;
-}
-
-.img-comp-img img {
-  display:block;
-  vertical-align:middle;
-}
-
-.img-comp-slider {
-  position: absolute;
-  z-index:9;
-  cursor: ew-resize;
-  /*set the appearance of the slider:*/
-  width: 30px;
-  height: 551.25px;
-  background-color: #2196F3;
-  opacity: 0.0;
-  border-radius: 0%;
-}
-</style>
 <script>
 function initComparisons() {
   var x, i;
