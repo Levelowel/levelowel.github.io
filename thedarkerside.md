@@ -27,7 +27,7 @@
   cursor: ew-resize;
   /*set the appearance of the slider:*/
   width: 30px;
-  height: 100%;
+  height: 551.25px;
   background-color: #2196F3;
   opacity: 0.0;
   border-radius: 0%;
