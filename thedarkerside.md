@@ -121,6 +121,15 @@ function initComparisons() {
     <img src="2021-05-01_00.26.33.png" width="980" height="551.25px">
   </div>
 </div>
+  <br>
+  <div class="img-comp-container">
+  <div class="img-comp-img">
+    <img src="2021-05-01_00.26.13.png" width="980" height="551.25px">
+  </div>
+  <div class="img-comp-img img-comp-overlay">
+    <img src="2021-05-01_00.26.33.png" width="980" height="551.25px">
+  </div>
+</div>
 <script>
 /*Execute a function that will execute an image compare function for each element with the img-comp-overlay class:*/
 initComparisons();
