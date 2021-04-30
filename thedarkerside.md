@@ -6,7 +6,7 @@
 
 .img-comp-container {
   position: relative;
-  height: 1080px; /*should be the same height as the images*/
+  height: 100%; /*should be the same height as the images*/
 }
 
 .img-comp-img {
@@ -27,7 +27,7 @@
   cursor: ew-resize;
   /*set the appearance of the slider:*/
   width: 30px;
-  height: 1080px;
+  height: 100%;
   background-color: #2196F3;
   opacity: 0.0;
   border-radius: 0%;
@@ -116,10 +116,10 @@ function initComparisons() {
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="2021-05-01_00.26.13.png" width="1920" height="1080">
+    <img src="2021-05-01_00.26.13.png" width="1920" height="100%">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="2021-05-01_00.26.33.png" width="1920" height="1080">
+    <img src="2021-05-01_00.26.33.png" width="1920" height="100%">
   </div>
 </div>
 
