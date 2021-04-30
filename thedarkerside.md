@@ -114,10 +114,6 @@ function initComparisons() {
 </head>
 <body>
 
-<h1>Compare Two Images</h1>
-
-<p>Click and slide the blue slider to compare two images:</p>
-
 <div class="img-comp-container">
   <div class="img-comp-img">
     <img src="2021-05-01_00.26.13.png" width="1920" height="1080">
