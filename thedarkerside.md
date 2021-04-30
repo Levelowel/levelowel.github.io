@@ -6,7 +6,7 @@
 
 .img-comp-container {
   position: relative;
-  height: 100%; /*should be the same height as the images*/
+  height: 551.25; /*should be the same height as the images*/
 }
 
 .img-comp-img {
@@ -116,10 +116,10 @@ function initComparisons() {
 
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="2021-05-01_00.26.13.png" width="1920" height="100%">
+    <img src="2021-05-01_00.26.13.png" width="1920" height="551.25">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="2021-05-01_00.26.33.png" width="1920" height="100%">
+    <img src="2021-05-01_00.26.33.png" width="1920" height="551.25">
   </div>
 </div>
 
