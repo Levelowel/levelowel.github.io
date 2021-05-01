@@ -115,22 +115,19 @@ function initComparisons() {
 <body>
 <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="![2021-05-01_00 26 33](https://user-images.githubusercontent.com/53264315/116764210-a8a51a80-aa20-11eb-91ac-f85f28f2592a.png)" width="980" height="551.25px">
+    <img src="https://user-images.githubusercontent.com/53264315/116764210-a8a51a80-aa20-11eb-91ac-f85f28f2592a.png" width="980" height="551.25px">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="![2021-05-01_00 26 13](https://user-images.githubusercontent.com/53264315/116764223-b9ee2700-aa20-11eb-9ef4-23a8ecf99e49.png)
-" width="980" height="551.25px">
+    <img src="https://user-images.githubusercontent.com/53264315/116764223-b9ee2700-aa20-11eb-9ef4-23a8ecf99e49.png" width="980" height="551.25px">
   </div>
 </div>
   <br>
   <div class="img-comp-container">
   <div class="img-comp-img">
-    <img src="![2021-04-30_22 23 58](https://user-images.githubusercontent.com/53264315/116764235-c2def880-aa20-11eb-89fd-b082ff5330c2.png)
-" width="980" height="551.25px">
+    <img src="https://user-images.githubusercontent.com/53264315/116764235-c2def880-aa20-11eb-89fd-b082ff5330c2.png" width="980" height="551.25px">
   </div>
   <div class="img-comp-img img-comp-overlay">
-    <img src="![2021-04-30_22 23 18](https://user-images.githubusercontent.com/53264315/116764239-c6727f80-aa20-11eb-9590-3f903825b467.png)
-" width="980" height="551.25px">
+    <img src="https://user-images.githubusercontent.com/53264315/116764239-c6727f80-aa20-11eb-9590-3f903825b467.png" width="980" height="551.25px">
   </div>
 </div>
 <script>
